@@ -1,0 +1,29 @@
+Traits de seigneur de guerre
+- Pillar vétéran :
+Les unités Black Legion amies à 6" ou moins de votre SdG peuvent 
+déclarer une charge même si elles ont battu en retraite au cours
+du même tour
+
+- Indomptable :
+Tuer les dégats subits par votre SdG sont divisés par deux arrondis
+au supérieur
+
+- Brute en armure noire :
+Ajoutez 1 à la caractéristique de force de votre SdG. De plus une fois
+que celui-ci a effectué un mouvement de charge, choisissez une unité
+ennemie à 1" ou moins de lui et jetez un D6. Sur 4+ cette unité subit
+D3 blessures mortelles
+
+- Mangeur d'âmes :
+Chaque fois que votre SdG détruit une unité ennemie, il récupère
+immédiatement D3 PV perdus
+
+- Chef de guerre digne de confiance :
+Tant que votre SdG est sur le champ de bataille, jetez un D6 chaque fois
+que vous dépensez un PC pour utiliser un Stratagème, sur 5+ ce PC 
+est aussitôt restitué
+
+- Premier parmi les traitres :
+L'aptitude Mort au Faux Empereur entraîne une attaque supplémentaire sur
+5+ au lieu de 6+ pour les figurines des unités Black Legion amies à 6" 
+ou moins de votre SdG

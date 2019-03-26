@@ -1,0 +1,37 @@
+Reliques
+- Dents de Ghorisvex
+Figurine avec épée tronçonneuse
+Portée : mêlée
+Type : mêlée
+Force : Utilisateur
+PA : -3
+Dmg : 2
+Peut effectuer 2 attaques supplémentaires avec cette arme.
+Chaque 6+ pour blesser = 1 blessure mortelle supplémentaire
+
+- Trophées du massacre
++1 Cd dans les 6" amis, -1 Cd dans les 6" ennemis
+
+- Heaume aveugle
+-1 Ct mais +1 PA pour toutes les armes
+
+- Fléau des anges
+Figurine combi-bolter uniquement
+Portée : 24"
+Type : Tir rapide 2
+Force : 5
+PA : -2
+Dmg : 2
+Dommage 3 si vise unité Imperium
+
+- Cape des conquêtes
+Chaque fois que le porteur tue un Personnage ennemi il gagne +1 F, A, et Cd
+
+- Lame du frisson
+Figurine avec épée énergétique
+Portée : mêlée
+Type : mêlée
+Force : +1
+PA : -3
+Dmg : 1
+Le porteur effectue D6 attaques supplémentaires avec cette arme
